@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Dani-Ps/Dani-Ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><a href="#">
+  <img align="center" src="./images/avatar.png" />
+</a></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👷 Check out what I'm currently working on
+
+- [Client](https://github.com/Dani-Ps/Cliente.git) 
+- [Deploy](https://github.com/Dani-Ps/Despliegue.git) -  
+- [Py](hhttps://github.com/Dani-Ps/HCL.git)
+- [Server](https://github.com/Dani-Ps/Servidor.git)
+- [Desing](https://github.com/Dani-Ps/Dise-o.git) 
+
+### 🌱 My latest projects
+
+- [ByGalisteo](https://github.com/Dani-Ps/Web-project-for-professional-photographer.git) - Web used as a portfolio for a photographer
+
+
+### 📫 How to reach me:
+
+  - Twitch    : <https://www.twitch.tv/dani4h99>
+  - linkedin   : <https://www.linkedin.com/in/dani-ps>
+
