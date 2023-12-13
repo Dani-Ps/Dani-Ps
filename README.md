@@ -12,6 +12,12 @@
 
 - [ByGalisteo](https://github.com/Dani-Ps/Web-project-for-professional-photographer.git) - Web used as a portfolio for a photographer
 
+### ⭐ Recent Stars
+- [clean-code-javascript](https://github.com/devictoribero/clean-code-javascript) 
+- [python-web](https://github.com/mouredev/python-web) 
+- [Documentacion](https://github.com/ricval/Documentacion) 
+- [privateGPT](https://github.com/imartinez/privateGPT) 
+
 
 ### 📫 How to reach me:
 
