@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<p align="center"><a href="#">
-  <img align="center" src="./images/avatar.png" />
-</a></p>
-
-
-
 ### 👷 Check out what I'm currently working on
 
 - [Client](https://github.com/Dani-Ps/Cliente.git) 
-- [Deploy](https://github.com/Dani-Ps/Despliegue.git) -  
-- [Py](hhttps://github.com/Dani-Ps/HCL.git)
+- [Deploy](https://github.com/Dani-Ps/Despliegue.git) 
+- [Py](https://github.com/Dani-Ps/HCL.git)
 - [Server](https://github.com/Dani-Ps/Servidor.git)
 - [Desing](https://github.com/Dani-Ps/Dise-o.git) 
 
