@@ -3,7 +3,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [JavaScript](https://github.com/Dani-Ps/Cliente.git) - Repository with javascript projects
-- [Deployment](https://github.com/Dani-Ps/Despliegue.git) - Application Deployment Exercise Repository
+- [Deployment](https://github.com/Dani-Ps/Despliegue.git) - Application Deployment projects Repository
 - [Python](https://github.com/Dani-Ps/HCL.git) - Repository with python projects
 - [Server](https://github.com/Dani-Ps/Servidor.git) - Repository with Spring boot projects
 - [Desing](https://github.com/Dani-Ps/Dise-o.git) - Repository with desing projects (html, css, sass)
