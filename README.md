@@ -2,6 +2,7 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Lil-Apps](https://github.com/Dani-Ps/DualProjects) - Repository with mini-applications for company training
 - [JavaScript](https://github.com/Dani-Ps/Cliente.git) - Repository with javascript projects
 - [Python](https://github.com/Dani-Ps/HCL.git) - Repository with python projects
 - [Server](https://github.com/Dani-Ps/Servidor.git) - Repository with Spring boot projects
