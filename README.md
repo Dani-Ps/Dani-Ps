@@ -7,6 +7,7 @@
 - [Python](https://github.com/Dani-Ps/HCL.git) - Repository with python projects
 - [Server](https://github.com/Dani-Ps/Servidor.git) - Repository with Spring boot projects
 - [Desing](https://github.com/Dani-Ps/Dise-o.git) - Repository with desing projects (html, css, sass)
+- [jabonesApp-Desing](https://github.com/Dani-Ps/jabonesApp-Desing) - Student project with Angular
 
 ### 🌱 My latest projects
 
