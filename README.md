@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 ### 👷 Check out what I'm currently working on
-
-- [Company-projects](https://github.com/Dani-Ps/DualProjects) - Repository with mini-applications for company training
-- [JavaScript](https://github.com/Dani-Ps/Cliente.git) - Repository with JavaScript projects
-- [Python](https://github.com/Dani-Ps/HCL.git) - Repository with python projects
-- [Desing](https://github.com/Dani-Ps/Dise-o.git) - Repository with desing projects (html, css, sass)
-- [jabonesApp-Desing](https://github.com/Dani-Ps/Soappers) - Student project with Angular
+https://github.com/Dani-Ps/proyecto_final_iesalixar
+- [Final student project](https://github.com/Dani-Ps/proyecto_final_iesalixar)- Web Application Development final project repository 
+- [Company-projects](https://github.com/Dani-Ps/DualProjects) - Apps for company training repository
+- [JavaScript](https://github.com/Dani-Ps/Cliente.git) - JavaScript projects repository
+- [Python](https://github.com/Dani-Ps/HCL.git) - Python projects repository
+- [Desing](https://github.com/Dani-Ps/Dise-o.git) - Desing projects (html, css, sass) repository
+- [jabonesApp-Desing](https://github.com/Dani-Ps/Soappers) - Student project with Angular repository
 
 ### 🌱 My latest projects
 
