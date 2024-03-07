@@ -2,7 +2,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Final student project](https://github.com/Dani-Ps/proyecto_final_iesalixar)- Web Application Development final project repository 
+- [Final student project](https://github.com/Dani-Ps/proyecto_final_iesalixar) - Web Application Development final project repository 
 - [Company-projects](https://github.com/Dani-Ps/DualProjects) - Apps for company training repository
 - [JavaScript](https://github.com/Dani-Ps/Cliente.git) - JavaScript projects repository
 - [Python](https://github.com/Dani-Ps/HCL.git) - Python projects repository
