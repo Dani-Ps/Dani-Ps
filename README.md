@@ -12,7 +12,7 @@
 ### 🌱 My latest projects
 
 - [APIREST](https://github.com/Dani-Ps/apirestful) - My first API of products
-- [ByGalisteo](https://github.com/Dani-Ps/Web-project-for-professional-photographer.git) - Web used as a portfolio for a photographer
+- [ByGalisteo](https://github.com/Dani-Ps/Web-project-for-professional-photographer.git) - My first web used as a portfolio for a photographer
 
 ### ⭐ Recent Stars
 
