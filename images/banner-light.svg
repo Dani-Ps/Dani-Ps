@@ -61,7 +61,7 @@
     <!-- Code lines -->
     <text x="546" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#7c3aed">const</tspan><tspan fill="#0f172a"> dani = {</tspan></text>
     <text x="562" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#0284c7">focus</tspan><tspan fill="#64748b">: </tspan><tspan fill="#059669">"Full-Stack &amp; AI"</tspan><tspan fill="#64748b">,</tspan></text>
-    <text x="562" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#0284c7">building</tspan><tspan fill="#64748b">: </tspan><tspan fill="#b45309">"GastroAI"</tspan><tspan fill="#64748b">,</tspan></text>
+    <text x="562" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#0284c7">building</tspan><tspan fill="#64748b">: [</tspan><tspan fill="#b45309">"Oxel"</tspan><tspan fill="#64748b">, </tspan><tspan fill="#b45309">"GastroAI"</tspan><tspan fill="#64748b">],</tspan></text>
     <text x="562" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#0284c7">stack</tspan><tspan fill="#64748b">: [</tspan><tspan fill="#059669">"TS"</tspan><tspan fill="#64748b">, </tspan><tspan fill="#059669">"Java"</tspan><tspan fill="#64748b">, </tspan><tspan fill="#059669">"Python"</tspan><tspan fill="#64748b">],</tspan></text>
     <text x="546" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#0f172a">};</tspan></text>
   </g>
