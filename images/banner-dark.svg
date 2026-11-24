@@ -1,0 +1,70 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Daniel Pérez Serrano — Full-Stack Developer &amp; AI Builder">
+  <defs>
+    <linearGradient id="bg-dark" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow-cyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(150 40) rotate(25) scale(340 190)">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow-indigo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 195) rotate(-15) scale(320 180)">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent-line" x1="48" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="dots-dark" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="card-clip">
+      <rect x="1" y="1" width="898" height="218" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card-clip)">
+    <rect x="0" y="0" width="900" height="220" fill="url(#bg-dark)"/>
+    <rect x="0" y="0" width="900" height="220" fill="url(#dots-dark)"/>
+    <rect x="0" y="0" width="900" height="220" fill="url(#glow-cyan)"/>
+    <rect x="0" y="0" width="900" height="220" fill="url(#glow-indigo)"/>
+    <rect x="0" y="0" width="900" height="3" fill="url(#accent-line)"/>
+
+    <!-- Status pill -->
+    <rect x="48" y="34" width="272" height="26" rx="13" fill="#1e293b" fill-opacity="0.85" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <circle cx="64" cy="47" r="4" fill="#34d399"/>
+    <text x="76" y="51" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">SEVILLA, ES · BUILDING WITH AI</text>
+
+    <!-- Main headline -->
+    <text x="48" y="106" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="800" letter-spacing="-0.8">Daniel Pérez Serrano</text>
+
+    <!-- Subtitle -->
+    <text x="48" y="138" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="500">Full-Stack Developer &amp; AI Builder</text>
+
+    <!-- Code tagline chip -->
+    <rect x="48" y="158" width="144" height="28" rx="7" fill="#0b1220" stroke="#334155"/>
+    <text x="62" y="176" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="600">Just &lt;code&gt; it;</text>
+
+    <!-- Right code card -->
+    <rect x="526" y="34" width="326" height="152" rx="12" fill="#0b1120" fill-opacity="0.92" stroke="#1e293b" stroke-width="1.2"/>
+    <path d="M526 46 C526 39.373 531.373 34 538 34 H840 C846.627 34 852 39.373 852 46 V62 H526 V46 Z" fill="#111827"/>
+    <line x1="526" y1="62" x2="852" y2="62" stroke="#1e293b"/>
+
+    <!-- Window controls -->
+    <circle cx="545" cy="48" r="4" fill="#ef4444" fill-opacity="0.85"/>
+    <circle cx="559" cy="48" r="4" fill="#f59e0b" fill-opacity="0.85"/>
+    <circle cx="573" cy="48" r="4" fill="#10b981" fill-opacity="0.85"/>
+    <text x="689" y="52" text-anchor="middle" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">dani-ps.ts</text>
+
+    <!-- Code lines -->
+    <text x="546" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> dani = {</tspan></text>
+    <text x="562" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#7dd3fc">focus</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#86efac">"Full-Stack &amp; AI"</tspan><tspan fill="#94a3b8">,</tspan></text>
+    <text x="562" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#7dd3fc">building</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#fde047">"GastroAI"</tspan><tspan fill="#94a3b8">,</tspan></text>
+    <text x="562" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#7dd3fc">stack</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#86efac">"TS"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">"Java"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#86efac">"Python"</tspan><tspan fill="#94a3b8">],</tspan></text>
+    <text x="546" y="166" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5"><tspan fill="#e2e8f0">};</tspan></text>
+  </g>
+
+  <rect x="1" y="1" width="898" height="218" rx="16" stroke="#30363d" stroke-width="1.2"/>
+</svg>
